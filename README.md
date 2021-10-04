@@ -2,12 +2,6 @@
 
 Not long ago, I was a **recording engineer** who worked in a famous studio.
 
-Now I'm on my way as a **developer**.
-
-I try to be a useful developer.
-
-Please cheer for me. 
-
-Thank you! 🤟🏻
+Now I'm on my way as a **developer** 🤟🏻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0giri&show_icons=true&theme=onedark)
